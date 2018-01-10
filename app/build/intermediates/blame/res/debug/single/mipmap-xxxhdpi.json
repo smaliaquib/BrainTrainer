@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

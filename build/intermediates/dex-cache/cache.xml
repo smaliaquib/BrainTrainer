@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aquib\AndroidStudioProjects\BrainTrainer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Aquib\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a5014bfe648fb3c301350ec04189db421f23679f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aquib\AndroidStudioProjects\BrainTrainer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="85e2f0f23535040666c6f4ec73a89a7f2a7b5c22">
+        <dex dex="C:\Users\Aquib\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee5fb9327da475c3a1119738e66a8c95ae3bfb45\classes.dex" />
+    </item>
+
+</items>

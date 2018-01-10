@@ -1,0 +1,4 @@
+#Fri Dec 15 15:18:14 IST 2017
+base.0=C\:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\Users\\Aquib\\AndroidStudioProjects\\BrainTrainer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
